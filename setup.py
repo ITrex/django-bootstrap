@@ -18,6 +18,7 @@ setup(
     license='MIT License',
     keywords=['django', 'bootstrap'],
     platforms='any',
+    zip_safe=False,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
